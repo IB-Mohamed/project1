@@ -1,0 +1,182 @@
+{
+  "users": [
+    {
+      "id": "1969",
+      "email": "adada@adad.com1",
+      "password": "adadadad",
+      "todos": [
+        {
+          "id": "c86c39cc-feb5-4c29-b055-630b8f1d9f01",
+          "name": "aaaaaaaad",
+          "description": "adada",
+          "priority": "medium",
+          "dueDate": "2024-08-29",
+          "status": true
+        },
+        {
+          "id": "63054223-ceba-405b-910c-6bb4bef2c181",
+          "name": "test1",
+          "description": "adad",
+          "priority": "high",
+          "dueDate": "2024-08-19",
+          "status": true
+        },
+        {
+          "id": "c86c3f9cc-feb5-4c29-b055-630b8f1d9f01",
+          "name": "aaaaaaaa",
+          "description": "adada",
+          "priority": "low",
+          "dueDate": "2024-08-29",
+          "status": true
+        },
+        {
+          "id": "c86c3scc-feb5-4c29-b055-630b8f1d9f01",
+          "name": "aaaaaaaa",
+          "description": "adada",
+          "priority": "low",
+          "dueDate": "2024-08-29",
+          "status": true
+        },
+        {
+          "id": "c86c39dc-feb5-4c29-b055-630b8f1d9f01",
+          "name": "aaaaaaaa",
+          "description": "adada",
+          "priority": "low",
+          "dueDate": "2024-08-29",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": "b5cd",
+      "email": "aa@go.com",
+      "password": "6Xy7jfG]vxXQ8;X",
+      "todos": [
+        {
+          "id": "9e23fab3-3b8c-4711-a187-3749724a7cb0",
+          "name": "sdfdf",
+          "description": "asdefefsef",
+          "priority": "low",
+          "dueDate": "2024-08-14",
+          "status": false
+        },
+        {
+          "id": "d203315c-efb9-4dac-9e45-3533885ab1ab",
+          "name": "fefdvse",
+          "description": "dfef",
+          "priority": "low",
+          "dueDate": "2024-08-13",
+          "status": false
+        },
+        {
+          "id": "b7088a55-1fad-4952-8855-eeb1e3ae4f8e",
+          "name": "dfsdf",
+          "description": "dsfsvd",
+          "priority": "low",
+          "dueDate": "2024-08-30",
+          "status": false
+        },
+        {
+          "id": "d2b523a5-b5a0-4715-92ca-2be61e026dc2",
+          "name": "gfgd",
+          "description": "afddfasd",
+          "priority": "low",
+          "dueDate": "2024-08-06",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": "e07f",
+      "email": "elmaklizyibrahim@gmail.com",
+      "password": "12345678",
+      "todos": [
+        {
+          "id": "6d35422c-97b9-4871-82fe-1c015ba67aae",
+          "name": "gdf",
+          "description": "dfgfdg",
+          "priority": "medium",
+          "dueDate": "2024-08-13",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": "d531",
+      "email": "NYXVOLT10@gmail.com",
+      "password": "12345678",
+      "todos": []
+    },
+    {
+      "id": "1c60",
+      "email": "moseddik@aa.com",
+      "password": "123456",
+      "todos": [
+        {
+          "id": "cdb9d71f-e8ed-4a65-9ba7-6938dc7591c2",
+          "name": "fgh",
+          "description": "dfgfdg",
+          "priority": "medium",
+          "dueDate": "2024-08-06",
+          "status": true
+        },
+        {
+          "id": "18706102-9d74-4d38-9e04-b4c3ecf16e1b",
+          "name": "Ibrahim mohamed saad",
+          "description": "asdasda",
+          "priority": "high",
+          "dueDate": "2024-08-14",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": "4546",
+      "email": "elmaklizyibrahim@gmail.com",
+      "password": "sdkfglhds'ilkghdiofg",
+      "todos": []
+    },
+    {
+      "id": "17ed",
+      "email": "elmaklizyibrahim@gmail.com",
+      "password": "fklsd;hf;ijshg;ks",
+      "todos": []
+    },
+    {
+      "id": "48f1",
+      "email": "elmaklizyibrahim@gmail.com",
+      "password": "fsdgfghgfhgh",
+      "todos": []
+    },
+    {
+      "id": "28f0",
+      "email": "elmaklizyibrahim@gmail.com",
+      "password": "6757575675",
+      "todos": []
+    },
+    {
+      "id": "7234",
+      "email": "aaa@aa.com",
+      "password": "123456",
+      "todos": []
+    },
+    {
+      "id": "8f93",
+      "email": "tt@tt.com",
+      "password": "123456",
+      "todos": []
+    },
+    {
+      "id": "ff2f",
+      "email": "tt@tt.com",
+      "password": "123456",
+      "todos": []
+    },
+    {
+      "id": "8fe6",
+      "email": "qq@qq.com",
+      "password": "123456",
+      "todos": []
+    }
+  ]
+}
